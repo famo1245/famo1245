@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=JIYOUNG%20KIM&fontSize=70&fontAlignY=40&fontAlign=35&height=230&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=JIYOUNG%20KIM&fontSize=60&fontAlignY=40&fontAlign=30&height=200&fontColor=ffffff)
 
 
 ### 🛠️ Tech stack
