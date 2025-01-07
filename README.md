@@ -2,8 +2,15 @@
 
 
 ### 🛠️ Tech stack
+
 #### Back-End
-- Java, Spring Boot, Spring Data JPA, AWS
+![stack](https://skillicons.dev/icons?i=java,javascript,spring,django,express,nodejs,nestjs,aws)
+
+#### Database
+![stack](https://skillicons.dev/icons?i=mysql,redis,postgresql,mongo)
+
+#### Tools
+![stack](https://skillicons.dev/icons?i=github,githubactions,figma)
 
 ### ⏳ History
 - `상명대학교 컴퓨터과학과` : 2018.03 ~ 2024.08
