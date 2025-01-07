@@ -5,7 +5,7 @@
 #### Back-End
 - Java, Spring Boot, Spring Data JPA, AWS
 
-### ⏳ Academy
+### ⏳ History
 - `상명대학교 컴퓨터과학과` : 2018.03 ~ 2024.08
 - `네이버 부스트캠프 8기 - Full-Stack(Back-End)` : 2023.07 ~ 2023.12
 - `삼성 청년 SW 아카데미 (SSAFY) 12기 - 자바` : 2024.07 ~ 2024.12
