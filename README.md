@@ -13,12 +13,13 @@
 ![stack](https://skillicons.dev/icons?i=github,githubactions,figma)
 
 ### ⏳ History
-- `상명대학교 컴퓨터과학과` : 2018.03 ~ 2024.08
-- `네이버 부스트캠프 8기 - Full-Stack(Back-End)` : 2023.07 ~ 2023.12
-- `삼성 청년 SW 아카데미 (SSAFY) 12기 - 자바` : 2024.07 ~ 2024.12
+- `삼성 청년 SW 아카데미(SSAFY) 12기 - 자바(Java)` : 2024.07 ~ 2024.12
+- `상명대학교 컴퓨터과학과(Sangmyung univ. Bachelor of Computer Science)` : 2018.03 ~ 2024.08
+- `네이버 부스트캠프(Naver Boostcamp) 8기 - Full-Stack(Back-End)` : 2023.07 ~ 2023.12
+
 
 ### 📚 Certificate
-- `정보처리기사` : 2024.06
+- `정보처리기사(Engineer Information Processing, Korea)` : 2024.06
 
 <a href="https://github.com/devxb/gitanimals">
 <img
