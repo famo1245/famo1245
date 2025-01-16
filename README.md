@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=JIYOUNG%20KIM&fontSize=60&fontAlignY=40&fontAlign=30&height=200&fontColor=ffffff)
 
+### 👷 About me
+Hi there, I'm a Backend Developer, Jiyoung Kim.
+
+I'm interested in efficient code and architecture.
 
 ### 🛠️ Tech stack
 
