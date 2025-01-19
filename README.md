@@ -3,7 +3,7 @@
 ### 👷 About me
 Hi there, I'm a Backend Developer, Jiyoung Kim.
 
-I'm interested in efficient code and architecture.
+I'm interested in efficient code and architecture!
 
 ### 🛠️ Tech stack
 
