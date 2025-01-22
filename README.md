@@ -32,3 +32,9 @@ I'm interested in efficient code and architecture!
   height="300"
 />
 </a>
+
+<img
+  src="https://api.solve-nyang.com/compose/kandallee007"
+  width="600"
+  height="300"
+/>
