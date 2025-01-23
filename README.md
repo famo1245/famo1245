@@ -33,8 +33,10 @@ I'm interested in efficient code and architecture!
 />
 </a>
 
+<a href="https://solve-nyang.com">
 <img
   src="https://api.solve-nyang.com/compose/kandallee007"
   width="600"
   height="300"
 />
+</a>
